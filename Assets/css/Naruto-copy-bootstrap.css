@@ -1,0 +1,203 @@
+body {
+    margin: 0;
+
+}
+header {
+   background-color: orange;
+   font-family: Helvetica;
+   padding-top: 67px;
+   padding-bottom: 67px;
+   }
+
+header h2{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    font-weight: 800;
+    font-size: 36;
+    color: white;
+  }
+
+  header  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+
+header li {
+        /*float: left;*/
+        display: inline;
+        margin-left: 5px;
+        margin-right: 5px;
+
+}
+
+/*#about {
+  margin-left: 400px
+
+}
+.left {
+
+  margin-left: 15px;
+}
+
+#right {
+  margin-right: 400px;
+}
+*/
+header  a {
+      font-size: 18px;
+      font-weight: 400;
+      color: white;
+      text-decoration: none;
+
+
+}
+
+
+
+main {
+  padding: 0px 80px;
+}
+
+section {
+    padding: 60px 0;
+
+}
+
+section h3 {
+    font-weight: 600;
+    font-size: 36px;
+    color: #986D64;
+    font-family: Helvetica;
+    margin: 0 0 40px 0;
+
+  }
+
+section  h4 {
+  font-weight: 600;
+  font-size: 24px;
+  color: #4a4a4a;
+  font-family: Helvetica;
+  margin: 0 0 20px 0;
+
+}
+
+section  p {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Helvetica;
+    color: #4a4a4a;
+    padding: 0px;
+    margin: 0px;
+}
+
+#young-naruto {
+  width: 90%;
+
+}
+
+#projects {
+  border-top: 1px solid #D2D2D2;
+  border-bottom: 1px solid #D2D2D2;
+
+}
+
+#projects p {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Helvetica;
+  color: #F1634F;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+#projects img {
+  width: 95%;
+}
+
+#education {
+  border-top: 1px solid #D2D2D2;
+  border-bottom: 1px solid #D2D2D2;
+
+}
+
+
+.padding-college {
+  padding-bottom: 60px;
+}
+
+#Hokage {
+  padding-bottom: 140px;
+
+}
+#data-pad {
+  padding-top: 60px;
+}
+table {
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+thead > tr > th {
+  text-align: center;
+}
+tbody > tr {
+  text-align: center;
+}
+
+footer {
+  background-color: orange;
+  font-family: Helvetica;
+  height: 90px;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  padding-top: 27px;
+}
+
+footer li {
+  display: inline;
+  margin: 0px 25px;
+
+}
+
+footer  a {
+      font-size: 24px;
+      font-weight: 600;
+      color: white;
+      text-decoration: none;
+
+
+/*main > #about-me > h3 {
+    font-weight: 600;
+    font-size: 36;
+    color: #986D64;
+    font-family: Helvetica;
+    margin-bottom: 40px;
+    border: solid 2px;
+
+}
+
+main > h4 {
+    font-weight:600;
+    font-size: 24;
+    color: #4A4A4A;
+    font-family: Helvetica;
+
+}
+
+main > p {
+  font-family: Helvetica;
+  font-size: 20;
+  font-weight: 400;
+  color: #4a4a4a;
+
+}
+*/
